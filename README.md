@@ -1,5 +1,6 @@
 # WebApplicationSecurity
 NetBeans Tutorial: Securing a Web Application. From https://netbeans.org/kb/docs/web/security-webapps.html
+This is GlassFish server only
 
 -- paste from webstie below --
 
